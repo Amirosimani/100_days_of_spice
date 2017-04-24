@@ -1,4 +1,4 @@
-frame_time,sean_anger,sean_contempt,sean_disgust,sean_fear,sean_happiness,sean_neutral,sean_sadness,sean_surprise,url,data
+frame_time,sean_anger,sean_contempt,sean_disgust,sean_fear,sean_happiness,sean_neutral,sean_sadness,sean_surprise,url,date
 0,,,,,,,,,https://s3.amazonaws.com/100daysofspice/1_30_17/1_30_17___0.jpg,1_30_17
 1,,,,,,,,,https://s3.amazonaws.com/100daysofspice/1_30_17/1_30_17___1.jpg,1_30_17
 2,,,,,,,,,https://s3.amazonaws.com/100daysofspice/1_30_17/1_30_17___2.jpg,1_30_17
